@@ -73,3 +73,8 @@
         `perimeter(3, 4, 5)` # Результат: 12
 
 ## История изменений
+
+*   `63ed3aa` — add file: rectangle.py
+*   `b2b989e` — add a new files
+*   `d078c8d` — L-03: Docs added
+*   `8ba9aeb` — L-03: Circle and square added
